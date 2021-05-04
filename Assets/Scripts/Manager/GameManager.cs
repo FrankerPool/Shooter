@@ -21,7 +21,7 @@ public class GameManager : MonoBehaviour{
     public Transform playerPoint;
     //
     public PlayerModel player;
-    //
+    //as
     public AudioSource backGroundMusic;
     void Awake(){
       instanciaCompartidaGameManager = this;
